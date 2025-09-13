@@ -52,9 +52,8 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / Blazor / T
 ---
 
 ## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/amr-hossam-89ba17312))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://your-portfolio.com)  
-[![Email](https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white)](amr.h.dev22@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-hossam-89ba17312/)  
+[![Email](https://img.shields.io/badge/Email-amr.h.dev22%40gmail.com-red?logo=gmail&logoColor=white)](mailto:amr.h.dev22@gmail.com)  
 
 ---
 ✨ *Always learning, always building.*  
