@@ -38,9 +38,6 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / Blazor / T
 ---
 
 ## 📌 Featured Projects  
-🔹 **[Food POS System (Python + PyQt6)](https://github.com/AHdev22/pos-system)** – Complete cashier app with sales, receipts, and DB integration  
-🔹 **[Admin Dashboard (React + Next.js + Tailwind)](https://github.com/AHdev22/admin-dashboard)** – Modern responsive dashboard  
-🔹 **[E-Commerce API (.NET 8 Web API + EF Core)](https://github.com/AHdev22/ecommerce-api)** – Backend API with authentication, products & orders  
 
 ---
 
@@ -53,7 +50,8 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / Blazor / T
 
 ## 🌍 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-hossam-89ba17312/)  
-[![Email](https://img.shields.io/badge/Email-amr.h.dev22%40gmail.com-red?logo=gmail&logoColor=white)](mailto:amr.h.dev22@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-amr.h.dev22%40gmail.com-red?logo=gmail&logoColor=white)](mailto:amr.h.dev22@gmail.com?subject=Job%20Opportunity%20-%20Contact%20from%20GitHub&body=Hi%20Amr,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you%20regarding...)
+
 
 ---
 ✨ *Always learning, always building.*  
