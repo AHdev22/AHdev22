@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Amr Hossam (AHdev22)  
 
 💻 **Full-Stack Developer** | 🚀 Passionate about building scalable web apps  
-Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / Blazor / TailwindCSS)**  
+Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCSS)**  
 
 ---
 
