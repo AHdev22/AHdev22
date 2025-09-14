@@ -38,7 +38,7 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCS
 ---
 
 ## 📌 Featured Projects  
-🔹 **[Simple-Restaurant (Python + Django + Html + Css + Js)](https://github.com/AHdev22/Coursera-Django-MVT.git)** – Restaurant-website
+🔹 **[Restaurant-website](https://github.com/AHdev22/Coursera-Django-MVT.git)** – Simple-Restaurant Using (Python + Django + Html + Css + Js)
 
 
 ---
