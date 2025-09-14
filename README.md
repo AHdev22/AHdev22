@@ -38,9 +38,8 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCS
 ---
 
 ## 📌 Featured Projects  
-🔹 **[Food POS System (Python + PyQt6)](https://github.com/AHdev22/pos-system)** – Cashier app with sales, receipts & DB integration  
-🔹 **[Admin Dashboard (React + Next.js + TailwindCSS)](https://github.com/AHdev22/admin-dashboard)** – Responsive enterprise dashboard  
-🔹 **[E-Commerce API (.NET 8 + EF Core)](https://github.com/AHdev22/ecommerce-api)** – REST API with authentication, products & orders  
+🔹 **[Simple-Restaurant (Python + Django + Html + Css + Js)](https://github.com/AHdev22/Coursera-Django-MVT.git)** – Restaurant-website
+
 
 ---
 
