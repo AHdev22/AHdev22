@@ -6,7 +6,7 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCS
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on: **Enterprise Admin Dashboards & POS Systems**  
+- 🔭 Currently seeking opportunities as a Junior Software Developer
 - 🌱 Focusing on: **C# .NET MVC / Web API, Blazor, Cloud & Microservices**  
 - 🧩 Background in **Python**, but career path is **C# and ASP.NET**  
 - ⚡ Interested in **system design, clean architecture, and performance optimization**  
@@ -16,10 +16,10 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCS
 ## 🛠️ Tech Stack  
 
 **Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
-![Blazor](https://img.shields.io/badge/Blazor-5C2D91?logo=blazor&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Blazor](https://img.shields.io/badge/Blazor-5C2D91?logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 
 **Backend & APIs:**  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
