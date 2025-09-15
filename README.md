@@ -7,7 +7,7 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCS
 
 ## 🚀 About Me
 - 🔭 Currently seeking opportunities as a Junior Software Developer
-- 🌱 Focusing on: **C# .NET MVC / Web API, Blazor, Cloud & Microservices**  
+- 🌱 Focusing on: **C# .NET MVC / Web API, Blazor, Cloud & Microservices,React / Next.js / TailwindCSS, Using AI**  
 - 🧩 Background in **Python**, but career path is **C# and ASP.NET**  
 - ⚡ Interested in **system design, clean architecture, and performance optimization**  
 
