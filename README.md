@@ -15,25 +15,60 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCS
 
 ## 🛠️ Tech Stack  
 
-**Frontend:**  
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Blazor](https://img.shields.io/badge/Blazor-5C2D91?logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+<p align="center">
+  <!-- Frontend -->
+  <a href="https://react.dev" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank">
+    <img src="https://img.shields.io/badge/Blazor-5C2D91?logo=blazor&logoColor=white" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  </a>
+</p>
 
-**Backend & APIs:**  
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)](https://learn.microsoft.com/aspnet/core/)
-[![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+<p align="center">
+  <!-- Backend & APIs -->
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">
+    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/ef/" target="_blank">
+    <img src="https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  </a>
+</p>
 
-**Databases & Tools:**  
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/sql/sql-server/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+<p align="center">
+  <!-- Databases & Tools -->
+  <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
