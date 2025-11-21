@@ -39,8 +39,9 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCS
 ---
 
 ## 📌 Featured Projects  
-🔹 **[Restaurant-website](https://github.com/AHdev22/Coursera-Django-MVT.git)** – Simple-Restaurant Using (Python + Django + Html + Css + Js)
-🔹 **[Personal Expece Tracker-website-mobile](https://github.com/AHdev22/Personal-Expense-Tracker)** – Simple-Personal Expence Tracker Using (C# .Net + React/Next + Html + Css + Js)
+
+🔹 **[Restaurant-website](https://github.com/AHdev22/Coursera-Django-MVT.git)** – Simple Restaurant using (Python + Django + HTML + CSS + JS)  
+🔹 **[Personal Expense Tracker – Website & Mobile](https://github.com/AHdev22/Personal-Expense-Tracker)** – Simple Personal Expense Tracker using (C# .NET + React/Next + HTML + CSS + JS)
 
 ---
 
