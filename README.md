@@ -47,11 +47,9 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCS
 
 ## 📊 GitHub Stats  
 
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHdev22&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHdev22&theme=tokyonight)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHdev22&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+![Metrics](https://metrics.lecoq.io/AHdev22?template=classic&base=header,activity,community&config.timezone=Africa%2FCairo)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AHdev22&theme=tokyonight)
 
