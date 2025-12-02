@@ -46,7 +46,6 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCS
 ---
 
 ## 📊 GitHub Stats  
-## 📊 GitHub Stats  
 
 ![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHdev22&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
