@@ -49,7 +49,9 @@ Focused on **.NET (C#) APIs** + **Modern Frontends (React / Next.js / TailwindCS
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHdev22&theme=tokyonight)
 
+
 ![Metrics](https://metrics.lecoq.io/AHdev22?template=classic&base=header,activity,community&config.timezone=Africa%2FCairo)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AHdev22&theme=tokyonight)
 
